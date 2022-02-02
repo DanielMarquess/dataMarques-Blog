@@ -1,5 +1,5 @@
 ---
-title: "Daniel Marques" 
+title: "Boas-vindas" 
 description: |
   Bem-vindo  ao meu blog. Sou enfermeiro epidemiologista e cientista de dados em formação (MBA em Data Science e Analytics na USP/ESALQ). Nele publicarei meus projetos na área de Data Science!
 author:

@@ -1,7 +1,7 @@
 [
   {
     "path": "posts/welcome/",
-    "title": "Daniel Marques",
+    "title": "Boas-vindas",
     "description": "Bem-vindo  ao meu blog. Sou enfermeiro epidemiologista e cientista de dados em formação (MBA em Data Science e Analytics na USP/ESALQ). Nele publicarei meus projetos na área de Data Science!",
     "author": [
       {
@@ -13,7 +13,7 @@
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-02-01T22:05:13-03:00",
+    "last_modified": "2022-02-01T22:32:13-03:00",
     "input_file": "welcome.knit.md"
   }
 ]
