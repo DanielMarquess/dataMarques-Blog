@@ -74,7 +74,8 @@ ggMortInf <- ggplot(data = sf_sergipe_ipea) +
 ```{r echo=FALSE}
 ggMortInf
 ```
-
+</br>
+Veja o vídeo do mapa [<b>aqui</b>](https://youtu.be/Bt3vG3OnCGA)
 
   </body>
 </html>
