@@ -2,18 +2,18 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "title": "Sobre o Blog",
+      "description": "Olá, Sou Daniel Marques, enfermeiro com residência em epidemiologia hospitalar pela Universidade Federal de Sergipe, epidemiologista de campo pela Fiocruz (Brasília) e cientista de dados em formação na USP/ESALQ.\nPretendo através desse blog consolidar os conhecimentos aprendidos na pós-graduação em ciência de dados, por meio de aplicações práticas envolvendo a área da saúde, e sempre que possível a epidemiologia, dada a minha formação.\nAo mesmo tempo, espero contribuir em conhecimento com você leitor e interessado nesse ramo tão gratificante que é a Ciência de Dados.",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-01T21:35:52-03:00"
+      "last_modified": "2022-02-02T14:36:09-03:00"
     },
     {
       "path": "index.html",
-      "title": "dataMarques",
+      "title": "Postagens",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-02-01T21:35:52-03:00"
+      "last_modified": "2022-02-02T14:50:18-03:00"
     }
   ],
   "collections": ["posts/posts.json"]
