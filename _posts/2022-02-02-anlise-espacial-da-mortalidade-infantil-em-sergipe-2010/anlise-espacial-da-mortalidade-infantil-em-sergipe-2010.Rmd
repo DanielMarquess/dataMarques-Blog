@@ -1,5 +1,5 @@
 ---
-title: "Análise espacial da mortalidade infantil em Sergipe, 2010"
+title: "Análise espacial da mortalidade infantil em Sergipe, 2010 (post em construção)"
 description: |
  Objetivo: demonstrar os passos necessários para analisar espacialmente dados de mortalidade infantil 
 author:
@@ -64,7 +64,7 @@ sf_sergipe_ipea <-left_join(sf_sergipe, dados_ipea,
 
 ggMortInf <- ggplot(data = sf_sergipe_ipea) + 
   geom_sf(aes(fill = mortalidade_infantil)) + 
-  scale_fill_viridis("Mortalidade Infantil") +
+  scale_fill_viridis("Mortes por 1000 nascidos vivos") +
   ggtitle("Taxa de Mortalidade Infantil em Sergipe, 2010") +
   theme_bw() +
   annotation_north_arrow(width = unit(0.75, "cm"),
